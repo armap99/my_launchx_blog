@@ -1,5 +1,5 @@
 baseURL = "https://armap99.github.io/my_launchx_blog/"
-languageCode = "en-us"
+languageCode = "es"
 title = "Bitácora de Viaje"
 theme = "hugo-winston-theme"
 relativeURLs = true
