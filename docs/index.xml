@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://armap99.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://armap99.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en LaunchX</title>
+      <link>https://armap99.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://armap99.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Lo que he aprendido en LaunchX es:
+ Mejorar mi lógica de propagación. Jupyter Notebboks Algunos comandos nuevos. Usar GitHub actions. VUE JS. VUE. Un poco de angular.  Gracias por leer.</description>
+    </item>
+    
     <item>
       <title>La cultura en el desarrollo de software</title>
       <link>https://armap99.github.io/my_launchx_blog/posts/intro/</link>
